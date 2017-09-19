@@ -31,7 +31,8 @@
         {
          color-hover: #1ab2ff;
          color: black;
-         border-radius: 4px;        
+         border-radius: 4px;
+         box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
         
         }
 

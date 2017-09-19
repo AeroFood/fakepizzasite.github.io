@@ -43,3 +43,9 @@
     height: 150px;
     margin-left: 45px;
 }
+
+h1 
+  {
+    color: white;
+    font-size: 34px;
+  }

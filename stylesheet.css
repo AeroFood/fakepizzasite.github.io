@@ -1,7 +1,7 @@
   body{
     background-image: url("http://wallpaper-gallery.net/images/pizza-wallpaper/pizza-wallpaper-6.jpg");
     background-size: cover;
-    margin:  1;
+    margin:  0;
     padding: 0;
     height: 100%;
     width: 100%;
@@ -41,7 +41,7 @@
     background: #668cff;
     padding: 20px; 
     width: 200px;
-    height: 2000px;
+    height: 3000px;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 

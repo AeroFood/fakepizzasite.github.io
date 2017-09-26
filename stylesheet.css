@@ -37,7 +37,10 @@
         }
 
 #rcorners1 {
-    border-radius: 19px;
+    border: solid;
+    border-width: 2px;
+    border-color: #688cff ;
+    border-radius: 15px;
     background: #668cff;
     padding: 20px; 
     width: 200px;

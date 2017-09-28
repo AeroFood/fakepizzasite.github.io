@@ -63,4 +63,10 @@ h1
     padding: 0;
     overflow: hidden;
 }
-    background-color: #b30000;
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}

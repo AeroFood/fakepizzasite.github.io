@@ -73,3 +73,11 @@ li a {
 li {
   float: left;
 }
+       div
+        {
+          margin-left: 350px;
+          margin-right: 75px;
+          font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+          font-size: 20px;
+          
+        }
